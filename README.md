@@ -1,4 +1,4 @@
-# About Project - *Navigation Tab*📱
+# About Project - *Mobile Navigation Tab*📱
 - What is Naviagtion tab?  
 The navigation is the way your users will get from point A to point B. It’s how they’ll discover the design and interact with the product. Designers and writers have described navigation as the road system of an app, because they are the highways that users need to enjoy the product.
 - Tech Stack used:  
